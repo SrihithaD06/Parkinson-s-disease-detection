@@ -29,4 +29,15 @@ The model was successfully trained and evaluated using SVM. It provides good acc
 
 ## 🚀 How to Run
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/SrihithaD06/Parkinson-s-disease-detection.git 
+2. Navigate to the project folder:cd parkinsons-detection-features
+3. Install dependencies:pip install -r requirements.txt
+4. Run the project:python src/main.py
+
+## 🔮 Future Improvements
+- Try advanced models (Random Forest, Neural Networks)
+- Perform hyperparameter tuning
+- Build a hardware model for real-time prediction
+
+##  Contribution
+Feel free to fork this repository and improve the project.
